@@ -1,0 +1,2 @@
+
+Top-Tip: All SQL statements that you write in your terminal, inside the sqlite prompt, sqlite>, must be terminated with a semi-colon ;. If you hit enter without adding a semi-colon to the end of your line, you will be trapped! Don't worry though, just add that ; on the new line and hit enter again. Note, however, that this does not apply to sqlite commands that begin with a . such as .quit and .tables. These commands will not work if you add the semi-colon.
